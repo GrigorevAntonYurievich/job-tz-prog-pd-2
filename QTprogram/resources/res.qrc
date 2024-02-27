@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="PDFParcerDB">
+    <file>icons/invisible.svg</file>
+    <file>icons/visible.svg</file>
+    <file>icons/label_important_black_24dp.svg</file>
+  </qresource>
+</RCC>

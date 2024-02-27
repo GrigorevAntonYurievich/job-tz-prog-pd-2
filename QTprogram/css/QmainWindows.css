@@ -1,0 +1,12 @@
+QWidget {
+    background-color: #eeeeee; /* цвет фона */
+    color: rgb(255, 25, 25); /* цвет текста */
+    font-family: Verdana; /* название шрифта */
+    font-size: 9pt; /* размер шрифта */
+    margin: 5px;  /* отступ */
+}
+
+QPushButton {
+    border: 2px solid gray;
+    border-radius: 5px;
+}
